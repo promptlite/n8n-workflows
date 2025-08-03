@@ -1,3 +1,35 @@
+# 🌐 PromptLite Enhanced Fork – n8n-workflows
+
+📚 Kumpulan lengkap 2.000+ workflow n8n yang telah dikategorikan, diindeks, dan dioptimasi — kini disesuaikan untuk komunitas bisnis Indonesia oleh **PromptLite**.
+
+> 🗂️ **Repository Category**: `Workflow Repositories`  
+> 🚀 **Forked from**: [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)  
+> 🇮🇩 **Localized for Indonesia** by PromptLite
+
+[Join Starter Community](https://nas.io/otomasi-bisnis-id/home) – Rp 97k/bln  
+[Join Pro Support & Reseller Program](https://nas.io/otomasi-bisnis-id/home) – Rp 297k/bln
+
+---
+
+## ✨ Enhancements by PromptLite
+
+- 🇮🇩 Penambahan dokumentasi dan penjelasan dalam Bahasa Indonesia  
+- 💼 Relevansi tinggi untuk use case UMKM & bisnis online lokal  
+- 🔎 Klasifikasi ulang berdasarkan kebutuhan lokal dan kategori PromptLite  
+- 📎 Tautan langsung ke komunitas [Starter](https://nas.io/otomasi-bisnis-id/home) dan [Pro](https://nas.io/otomasi-bisnis-id/home)  
+- 📊 Rencana integrasi visualisasi dan sistem pencarian berbasis Bahasa
+
+---
+
+## 📁 Original Repository Description (Preserved)
+
+> ⚡ **N8N Workflow Collection & Documentation**  
+> A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
+
+> (Full original README content continues below…)
+
+---
+
 # ⚡ N8N Workflow Collection & Documentation
 
 A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
@@ -459,3 +491,6 @@ This comprehensive collection includes workflows from:
 
 [中文](./README_ZH.md)
 
+---
+
+© 2025 **PromptLite Automation** • Part of the *Indonesian Business Automation Ecosystem*
